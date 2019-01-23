@@ -1,0 +1,25 @@
+[{
+    "name": "Shirt 1",
+    "description": "Dark Green",
+    "price": 450,
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1678080/2017/11/7/11510035544361-Difference-of-Opinion-Navy-Printed-T-shirt-4871510035544044-2.jpg",
+    "stock": 20,
+    "size": "M"
+  },
+  {
+    "name": "Shirt 2",
+    "description": "Light Green",
+    "price": 750,
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7226599/2018/9/18/8fe4e390-bf52-4618-9c76-eb074a11c1281537265109508-GAP-Mens-Logo-Short-Sleeve-Henley-5271537265108025-1.jpg",
+    "stock": 20,
+    "size": "L"
+  },
+  {
+    "name": "Shirt 3",
+    "description": "Dark Pink",
+    "price": 600,
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7616726/2018/10/26/108cddb1-330f-4f9d-ba3c-2d0bf915ab7a1540546107328-Nike-Men-Black-Camouflage-Print-Standard-Fit-AS-M-NK--MILER--5.jpg",
+    "stock": 20,
+    "size": "S"
+  }
+]
