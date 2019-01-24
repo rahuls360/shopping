@@ -3,11 +3,7 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    name: "",
-    product: "",
-    price: "",
-    quantity: "",
-    total: ""
+    product: {}
   };
 
   nameRef = React.createRef();
@@ -18,6 +14,7 @@ class App extends Component {
     this.props.history.push("products");
     event.preventDefault();
   };
+
   render() {
     return (
       <>
